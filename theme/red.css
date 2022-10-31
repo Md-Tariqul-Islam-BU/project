@@ -1,0 +1,56 @@
+.headersection {background:#D6A2E8 none repeat scroll 0 0;}
+.icon a {background:#B33771 none repeat scroll 0 0;}
+.searchbtn input[type="text"] {
+  border: 1px solid #B33771;
+  
+  background:#D6A2E8 none repeat scroll 0 0;
+   color:#6D214F; 
+}
+.searchbtn input[type="submit"] {
+  border: 1px solid #6D214F;
+  background-color:#B33771;}
+  
+  input[type="submit"] {
+  background: #6D214F none repeat scroll 0 0;
+  border: 1px solid #6D214F;
+}
+.searchbtn input[type="submit"]:hover{
+	background: #6D214F none repeat scroll 0 0;
+	border: 1px solid #B33771;}
+    .navsection {
+  background: none repeat scroll 0 0 #6D214F;}
+.navsection ul li {
+  border-left: 1px solid #D6A2E8;
+  border-right: 1px solid #D6A2E8;}
+  .contentsection {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid #be2edd;}
+  .maincontent {
+  background: #fef4e5 none repeat scroll 0 0;
+  border: 1px solid #ded4c5;}
+  .samepost h2 a{
+  color: #6D214F;}
+  .sidebar {
+  background:#ffcccc  none repeat scroll 0 0;
+  border: 1px solid #be2edd;}
+  .samesidebar h2 {
+  background: #6D214F none repeat scroll 0 0; color:white;}
+  .readmore a {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #be2edd;
+  color: #be2edd;}
+  .pagination a
+{
+background:#D6A2E8;}
+.samepost h2, .about h2 {
+  border-bottom: 2px solid #be2edd;
+  color: #be2edd;}
+.relatedpost h2 {
+  background: #6D214F none repeat scroll 0 0;
+  border-bottom: 2px solid #6D214F !important;}
+  .about img {
+  background: #fff none repeat scroll 0 0;
+  border: 1px solid #6D214F;}
+  .footersection{height:90px;background:#6D214F;}
+  .footermenu ul li a {
+  color: #fff;}
